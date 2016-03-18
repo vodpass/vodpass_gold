@@ -6,8 +6,7 @@
 
 #EXTINF:-1,[COLOR aqua]WEEKEND CINEMA by request only[/COLOR]
 
-Name: Dmax (Documentary) (UK) (English)
-https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/DMAX_Logo_16_05_2011.jpg/320px-DMAX_Logo_16_05_2011.jpg
+#EXTINF:-1 tvg-logo="http://epg.serbianforum.org/logo_znaci/NetTV%20Plus/DMAX.png" type="yt-dl" group-title="Streams: IPTV",Dmax (Documentary) (UK) (English)
 http://cp.dmbshare.net:8000/live/burgess/burgess/2813.m3u8
 
 #EXTINF:-1,QUEST
