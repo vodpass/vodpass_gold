@@ -9,6 +9,9 @@
 #EXTINF:-1 tvg-logo="http://epg.serbianforum.org/logo_znaci/NetTV%20Plus/DMAX.png" type="yt-dl" group-title="Streams: IPTV",Dmax (Documentary) (UK) (English)
 http://cp.dmbshare.net:8000/live/burgess/burgess/2813.m3u8
 
+
+
+
 #EXTINF:-1,QUEST
 http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe0ee515730a6491fea6e4350ae8bb9d9ca040f4c66a780c42df37a5e3a64266ebe90dcd9af2e37e220ce5c1a17dab0052fd0df50bb4b753062d6f61063ef875dd280a7d30bdf60518c3d29039ec0a1878e55a0d27c74e3c4bfc46cd653a8a34e9f1404c7e4ec1f5043ca81be693eb51aaef1c5b1486f9471a7aa87afce04bc5036116ffbb106b21916512917078841ed4
 
@@ -150,7 +153,14 @@ http://tvegolf-i.akamaihd.net/hls/live/218225/golfx/2596k/prog.m3u8
 #EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]    Sky Poker [/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/crtv01_delivery@329705/index_1164_av-b.m3u8
 
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]Bein 1 Atlas [/COLOR]
+http://iptv.ndasat.com:88/live/new/new/1034.ts
 
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]Bein 2 Atlas [/COLOR]
+http://iptv.ndasat.com:88/live/new/new/1035.ts
+
+#EXTINF:-1 tvg-id="id1" tvg-name="" tvg-logo="logo1" group-title="Sports: IPTV",[COLOR green]Bein 3 Atlas [/COLOR]
+http://iptv.ndasat.com:88/live/new/new/1036.ts
 
 #EXTINF:-1 tvg-logo="logo1" group-title="Movies: IPTV",[COLOR yellow]Movies: IPTV[/COLOR]
 
